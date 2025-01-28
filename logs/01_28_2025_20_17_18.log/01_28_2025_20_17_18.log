@@ -1,5 +1,0 @@
-[ 2025-01-28 20:17:23,954 ] 22 root - INFO - Entered the initiate_data_ingestion method
-[ 2025-01-28 20:17:24,021 ] 25 root - INFO - Read dataset as dataframe
-[ 2025-01-28 20:17:24,166 ] 31 root - INFO - train test split initiated
-[ 2025-01-28 20:17:24,189 ] 33 root - INFO - train test split completed
-[ 2025-01-28 20:17:24,506 ] 39 root - INFO - Data ingestion completed
