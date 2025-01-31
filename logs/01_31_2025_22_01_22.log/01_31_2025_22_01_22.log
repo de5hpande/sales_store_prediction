@@ -1,0 +1,10 @@
+[ 2025-01-31 22:01:23,908 ] 23 root - INFO - Entered the initiate_data_ingestion method
+[ 2025-01-31 22:01:23,937 ] 26 root - INFO - Read dataset as dataframe
+[ 2025-01-31 22:01:23,997 ] 32 root - INFO - train test split initiated
+[ 2025-01-31 22:01:24,010 ] 34 root - INFO - train test split completed
+[ 2025-01-31 22:01:24,071 ] 40 root - INFO - Data ingestion completed
+[ 2025-01-31 22:01:24,122 ] 85 root - INFO - Read train and test data completed
+[ 2025-01-31 22:01:24,122 ] 87 root - INFO - Obtaining preprocessing object
+[ 2025-01-31 22:01:24,123 ] 63 root - INFO - Categorical Column :['Item_Identifier', 'Item_Fat_Content', 'Item_Type', 'Outlet_Identifier', 'Outlet_Size', 'Outlet_Location_Type', 'Outlet_Type']
+[ 2025-01-31 22:01:24,123 ] 64 root - INFO - Numerical Column :['Item_MRP', 'Item_Weight', 'Item_Visibility', 'Outlet_Establishment_Year']
+[ 2025-01-31 22:01:24,129 ] 99 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
