@@ -1,0 +1,17 @@
+[ 2025-02-03 19:30:03,011 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-03 19:30:03,017 ] 97 werkzeug - INFO -  * Debugger PIN: 101-778-607
+[ 2025-02-03 19:30:04,929 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:30:04] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-02-03 19:30:10,414 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:30:10] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2025-02-03 19:30:10,509 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:30:10] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-02-03 19:30:10,510 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:30:10] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-02-03 19:30:10,523 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:30:10] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=ZqfSoxvwGfbO3aCHTwtM HTTP/1.1" 200 -
+[ 2025-02-03 19:30:40,583 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:30:40] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-02-03 19:30:41,664 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:30:41] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-02-03 19:30:42,276 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:30:42] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-02-03 19:30:45,967 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:30:45] "GET / HTTP/1.1" 200 -
+[ 2025-02-03 19:30:54,824 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:30:54] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-02-03 19:31:15,609 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:31:15] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2025-02-03 19:31:15,634 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:31:15] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-02-03 19:31:15,636 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:31:15] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-02-03 19:31:15,653 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:31:15] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=ZqfSoxvwGfbO3aCHTwtM HTTP/1.1[0m" 304 -
+[ 2025-02-03 19:32:45,594 ] 97 werkzeug - INFO -  * Detected change in 'D:\\Stores_Sales_Prediction\\algo_1\\src\\pipeline\\predict_pipeline.py', reloading

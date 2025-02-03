@@ -1,0 +1,35 @@
+[ 2025-02-03 18:30:30,862 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-03 18:30:30,873 ] 97 werkzeug - INFO -  * Debugger PIN: 101-778-607
+[ 2025-02-03 18:31:14,967 ] 97 werkzeug - ERROR - 127.0.0.1 - - [03/Feb/2025 18:31:14] code 400, message Bad request version ('\x1aVaÄjµÉ¤L\x1aìä`ýQ\x95ªY£\x13á\x0eÏå¨ÀaâÇ/Ìº\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+[ 2025-02-03 18:31:14,967 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:31:14] "[35m[1m\x16\x03\x01\x07O\x01\x00\x07K\x03\x03À<\x0bc¦K\x14Û¨ÎÒø|\x9dTD\x15¯JpÎ-Á\x16Ã\x18¡\x81åh\x9dî \x1aVaÄjµÉ¤L\x1aìä`ýQ\x95ªY£\x13á\x0eÏå¨ÀaâÇ/Ìº\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" HTTPStatus.BAD_REQUEST -
+[ 2025-02-03 18:31:14,968 ] 97 werkzeug - ERROR - 127.0.0.1 - - [03/Feb/2025 18:31:14] code 400, message Bad request version ('\x02\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+[ 2025-02-03 18:31:14,969 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:31:14] "[35m[1m\x16\x03\x01\x07O\x01\x00\x07K\x03\x03Ì9DUW=líp\x8a:kàª\x9e\x0b\x16\x8dX¶m\x18Ä\x07\x01\x1eÞS5\x10Àõ &_£øO\x8cøåUß\x19\x84d\x0e¬·ÍZ²hÕí±¸¹×µ\x08=M\x0d\x02\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" HTTPStatus.BAD_REQUEST -
+[ 2025-02-03 18:31:14,971 ] 97 werkzeug - ERROR - 127.0.0.1 - - [03/Feb/2025 18:31:14] code 400, message Bad request version ('/Q\x8f°úÿ`6\x8aTÂª¢z>5ñ\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+[ 2025-02-03 18:31:14,971 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:31:14] "[35m[1m\x16\x03\x01\x02~\x01\x00\x02z\x03\x03\x0d\x86·|\x0bCAQ\x19\x0f2¾¬òh\x11">!J\x05aÖTÊnèøØÄ÷¼ gí¤ +n¯\x00\x19(Z\x18Ä¶\x1e/Q\x8f°úÿ`6\x8aTÂª¢z>5ñ\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" HTTPStatus.BAD_REQUEST -
+[ 2025-02-03 18:31:17,835 ] 97 werkzeug - ERROR - 127.0.0.1 - - [03/Feb/2025 18:31:17] code 400, message Bad request version ('¿1*Zv\x868àUÉ©O\x96\x9c.ólCiR#¦C?L¦\x97¹\x02µ63\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+[ 2025-02-03 18:31:17,835 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:31:17] "[35m[1m\x16\x03\x01\x07O\x01\x00\x07K\x03\x03erù0\x1c\x10²¨utà¦G\x06\x92Åy×&éÑ\x83\x9dü\x0dZñ"I³\x81ý ¿1*Zv\x868àUÉ©O\x96\x9c.ólCiR#¦C?L¦\x97¹\x02µ63\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" HTTPStatus.BAD_REQUEST -
+[ 2025-02-03 18:31:17,848 ] 97 werkzeug - ERROR - 127.0.0.1 - - [03/Feb/2025 18:31:17] code 400, message Bad request version ('õE\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+[ 2025-02-03 18:31:17,848 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:31:17] "[35m[1m\x16\x03\x01\x02~\x01\x00\x02z\x03\x03È\x06ý,à\x04\x84\x0f\x84\x9aÐ®k\x9f\x82-­ÍÊ6³\x0b\x1fõC®!\x94\x9esÕP "(%Q15¹ÈLæ¶dÏnð\x1dÊ\x97a\x97JUti¬Z{\x0f­ õE\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" HTTPStatus.BAD_REQUEST -
+[ 2025-02-03 18:31:18,406 ] 97 werkzeug - ERROR - 127.0.0.1 - - [03/Feb/2025 18:31:18] code 400, message Bad request syntax ('\x16\x03\x01\x07O\x01\x00\x07K\x03\x03f')
+[ 2025-02-03 18:31:18,406 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:31:18] "[35m[1m\x16\x03\x01\x07O\x01\x00\x07K\x03\x03f[0m" HTTPStatus.BAD_REQUEST -
+[ 2025-02-03 18:31:18,409 ] 97 werkzeug - ERROR - 127.0.0.1 - - [03/Feb/2025 18:31:18] code 400, message Bad request version ('/´%Ù\xad4ó\x82´Z^\x8f\x03Û\x03\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+[ 2025-02-03 18:31:18,409 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:31:18] "[35m[1m\x16\x03\x01\x02~\x01\x00\x02z\x03\x038ö\x15W»\x8b¯lEW\x8e\x00Ý\x19\x1a\x12h&\x85q´Ô\x87¿\x8f2¦\x041tØ( \x92\x88\x9dô¯:éU\x9añ\x7f\x7f\\u\x8f¡\x09/´%Ù­4ó\x82´Z^\x8f\x03Û\x03\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" HTTPStatus.BAD_REQUEST -
+[ 2025-02-03 18:31:33,764 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:31:33] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2025-02-03 18:31:33,867 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:31:33] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2025-02-03 18:31:33,890 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:31:33] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2025-02-03 18:31:33,939 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:31:33] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=ZRlDmcyQL0CFjfSRsbq0 HTTP/1.1" 200 -
+[ 2025-02-03 18:31:33,939 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:31:33] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2025-02-03 18:32:42,927 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:32:42] "GET / HTTP/1.1" 200 -
+[ 2025-02-03 18:32:42,948 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:32:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-02-03 18:33:09,499 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:33:09] "[35m[1mGET /predictdata HTTP/1.1[0m" 500 -
+[ 2025-02-03 18:33:09,534 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:33:09] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2025-02-03 18:33:09,537 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:33:09] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2025-02-03 18:33:09,556 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:33:09] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2025-02-03 18:33:09,559 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:33:09] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=ZRlDmcyQL0CFjfSRsbq0 HTTP/1.1" 200 -
+[ 2025-02-03 18:33:35,261 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:33:35] "[33mGET /predict_datapoint HTTP/1.1[0m" 404 -
+[ 2025-02-03 18:33:56,993 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:33:56] "[35m[1mGET /predictdata HTTP/1.1[0m" 500 -
+[ 2025-02-03 18:33:57,020 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:33:57] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-02-03 18:33:57,022 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:33:57] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2025-02-03 18:33:57,042 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:33:57] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=ZRlDmcyQL0CFjfSRsbq0 HTTP/1.1" 200 -
+[ 2025-02-03 18:34:22,722 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 18:34:22] "[33mGET /predict_sales HTTP/1.1[0m" 404 -
+[ 2025-02-03 18:34:53,114 ] 97 werkzeug - INFO -  * Detected change in 'd:\\stores_sales_prediction\\algo_1\\app.py', reloading

@@ -1,0 +1,9 @@
+[ 2025-02-03 19:03:04,634 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-03 19:03:04,651 ] 97 werkzeug - INFO -  * Debugger PIN: 101-778-607
+[ 2025-02-03 19:03:17,292 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:03:17] "GET / HTTP/1.1" 200 -
+[ 2025-02-03 19:03:35,853 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:03:35] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-02-03 19:03:53,992 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:03:53] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2025-02-03 19:03:54,066 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:03:54] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2025-02-03 19:03:54,073 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:03:54] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2025-02-03 19:03:54,104 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:03:54] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=nC90NgBjzYqF8HTG7vfX HTTP/1.1" 200 -
+[ 2025-02-03 19:04:13,492 ] 97 werkzeug - INFO -  * Detected change in 'd:\\stores_sales_prediction\\algo_1\\app.py', reloading
