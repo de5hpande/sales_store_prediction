@@ -2,7 +2,7 @@
 
 Welcome to the **Store Sales Prediction Project**! This project aims to predict item sales using a variety of powerful tools and libraries. Below, you'll find an overview of the project, the dependencies used, and how to get it up and running in your local environment. Let's dive in! 🚀
 
-project link : storesales.streamlit.app
+project link : [SALES PREDICTION](https://storesales.streamlit.app/).
 
 ---
 
