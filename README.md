@@ -2,6 +2,8 @@
 
 Welcome to the **Store Sales Prediction Project**! This project aims to predict item sales using a variety of powerful tools and libraries. Below, you'll find an overview of the project, the dependencies used, and how to get it up and running in your local environment. Let's dive in! 🚀
 
+project link : storesales.streamlit.app
+
 ---
 
 ## 📌 Project Overview
@@ -37,19 +39,18 @@ To get this project up and running on your local machine, follow these steps:
    ```
 
 2. **Set Up a Virtual Environment** 🐍
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ```cmd
+   conda create -p venv python==3.12 -y
    ```
 
 3. **Install Dependencies** 📦
-   ```bash
+   ```cmd
    pip install -r requirements.txt
    ```
 
 4. **Run the Flask Application** 🌐
-   ```bash
-   flask run
+   ```cmd
+   python app.py or streamlit run streamlit_app.py
    ```
 
 5. **Access the Web Application** 🌍
@@ -89,38 +90,6 @@ The model training process involves the following steps:
 
 ---
 
-## 📂 Project Structure
-
-```
-store-sales-prediction/
-│
-├── data/                   # Dataset files
-├── models/                 # Trained models
-├── notebooks/              # Jupyter notebooks for exploration
-├── src/                    # Source code
-│   ├── __init__.py
-│   ├── app.py              # Flask application
-│   ├── train.py            # Model training script
-│   └── utils.py            # Utility functions
-├── static/                 # Static files (CSS, JS)
-├── templates/              # HTML templates
-├── requirements.txt        # List of dependencies
-└── README.md               # Project documentation
-```
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeatureName`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeatureName`).
-5. Open a pull request.
-
----
 
 ## 📜 License
 
