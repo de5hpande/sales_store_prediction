@@ -1,4 +1,0 @@
-[ 2025-02-03 19:27:25,432 ] 97 werkzeug - WARNING -  * Debugger is active!
-[ 2025-02-03 19:27:25,436 ] 97 werkzeug - INFO -  * Debugger PIN: 101-778-607
-[ 2025-02-03 19:28:03,156 ] 97 werkzeug - INFO - 127.0.0.1 - - [03/Feb/2025 19:28:03] "GET /predictdata HTTP/1.1" 200 -
-[ 2025-02-03 19:29:02,416 ] 97 werkzeug - INFO -  * Detected change in 'd:\\stores_sales_prediction\\algo_1\\src\\pipeline\\predict_pipeline.py', reloading

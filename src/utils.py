@@ -2,6 +2,7 @@ import os
 import sys
 import dill
 import pickle
+import joblib
 
 import numpy as np
 import pandas as pd
@@ -62,6 +63,25 @@ def load_object(file_path):
     try:
         with open(file_path, "rb") as file_obj:
             return pickle.load(file_obj)
+
+    except Exception as e:
+        raise CustomException(e, sys)
+    
+def save_object_joblib(file_path, obj):
+    """Saves an object to a file using joblib.
+
+    Args:
+        file_path (str): The path to the file where the object will be saved.
+        obj: The object to be saved.
+    
+    Raises:
+        CustomException: If an error occurs during saving.
+    """
+    try:
+        dir_path = os.path.dirname(file_path)
+        os.makedirs(dir_path, exist_ok=True)
+
+        joblib.dump(obj, file_path)
 
     except Exception as e:
         raise CustomException(e, sys)
